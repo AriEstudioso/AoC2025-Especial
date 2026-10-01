@@ -502,5 +502,5 @@ Los tests se utilizan como validación mínima para garantizar que cambios en el
 Puede obtener el proyecto clonando el repositorio:
 
 ```bash
-[git clone https://github.com/AriEstudioso/AoC2025.git
+[git clone https://github.com/AriEstudioso/AoC2025-Especial.git
 ```
